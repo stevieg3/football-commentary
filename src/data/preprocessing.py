@@ -22,7 +22,7 @@ Features which contain nulls
 """
 
 COLUMNS_TO_DROP = FEATURES_WITH_NULLS + [
-    'sort_order',
+    'id_event',
     'link_odsp',
     'date',
     'league',
