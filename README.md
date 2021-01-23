@@ -1,7 +1,7 @@
 football-commentary
 ==============================
 
-Getting started with NLP. Using Deep Learning and NLP to predict the likelihood of a goal using match text commentary.
+Getting started with NLP and PyTorch. Using Deep Learning and NLP to predict the likelihood of a goal using match text commentary.
 
 Main data source: https://www.kaggle.com/secareanualin/football-events
 
